@@ -2,9 +2,6 @@ import random
 import openpyxl
 
 # CODEGAME AUTO GUIÓN ES
-"""
- Todavía no he escrito la función PT, porque en la base de datos no está el archivo. Estoy traduciendo la tabla con ChatGpt.
-"""
 
 # Excel with the data base 
 wb_obj = openpyxl.load_workbook("/content/drive/MyDrive/Colab Notebooks/Detective.xlsx")
